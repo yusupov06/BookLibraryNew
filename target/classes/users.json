@@ -1,0 +1,32 @@
+[
+  {
+    "id": "94cb0e6d-95d2-40e9-848a-5cc2f77b2e87",
+    "firstName": "Muhammadqodir",
+    "lastName": "Yusupov",
+    "username": "1",
+    "password": "1",
+    "role": "ADMIN",
+    "numOfRentedBooks": 0,
+    "active": true
+  },
+  {
+    "id": "fe9a25b2-e4c4-41a4-b662-81cac800c38a",
+    "firstName": "Bobur",
+    "lastName": "Yuldashec",
+    "username": "2",
+    "password": "2",
+    "role": "USER",
+    "numOfRentedBooks": 0,
+    "active": true
+  },
+  {
+    "id": "6f1676c5-1a61-479b-a175-7e39168120d9",
+    "firstName": "Jobir",
+    "lastName": "Yusupov",
+    "username": "3",
+    "password": "3",
+    "role": "USER",
+    "numOfRentedBooks": 0,
+    "active": true
+  }
+]

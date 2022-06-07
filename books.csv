@@ -1,0 +1,36 @@
+[
+  {
+    "id": 0,
+    "name": "1",
+    "author": "1",
+    "genre": "1",
+    "numOfPages": 1,
+    "rentedTo": "Noone",
+    "givenFrom": "9deb2aff-712d-4ea8-a6bf-275078ef6a93",
+    "status": "FREE",
+    "rentedDays": 0
+  }
+][
+  {
+    "id": 0,
+    "name": "1",
+    "author": "1",
+    "genre": "1",
+    "numOfPages": 1,
+    "rentedTo": "Noone",
+    "givenFrom": "9deb2aff-712d-4ea8-a6bf-275078ef6a93",
+    "status": "FREE",
+    "rentedDays": 0
+  },
+  {
+    "id": 1,
+    "name": "1",
+    "author": "1",
+    "genre": "1",
+    "numOfPages": 1,
+    "rentedTo": "Noone",
+    "givenFrom": "9deb2aff-712d-4ea8-a6bf-275078ef6a93",
+    "status": "FREE",
+    "rentedDays": 0
+  }
+]
